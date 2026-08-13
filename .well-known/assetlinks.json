@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.myabc4411.workouttimerpro",
+      "sha256_cert_fingerprints": [
+        "B2:84:C0:61:EF:B8:01:86:EF:9D:08:9A:BC:63:13:6C:43:3D:EF:69:D1:24:C8:DE:81:71:3E:B2:02:34:22:CB"
+      ]
+    }
+  }
+]
